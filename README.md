@@ -54,7 +54,7 @@ In addition to implementation, I developed **formal theoretical guarantees** for
 
 Full proofs and derivations are provided in the accompanying PDF:
 
-📄 `ZO-AdaBound-Proofs.pdf`
+📄 `ZOAdaBound_Final.pdf`
 
 ---
 

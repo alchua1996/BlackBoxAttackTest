@@ -35,12 +35,6 @@ My primary contributions include:
 
 * Implementing **ZO-AdaBound**, an adaptive zeroth-order optimizer with bounded learning rates
 * Integrating ZO-AdaBound into a black-box adversarial attack pipeline
-* Designing and running experiments to evaluate:
-
-  * Convergence behavior
-  * Stability vs. baseline optimizers
-  * Attack effectiveness under query constraints
-* Extending the framework to support multiple gradient estimation strategies
 
 ---
 
